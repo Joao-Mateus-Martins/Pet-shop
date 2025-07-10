@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Special+Gothic+Condensed+One&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+}
+
+body {
+    font-family: "Outfit", sans-serif;
+}
+
+header {
+    text-transform: uppercase;
+    cursor: pointer;
+    font-size: 25px;
+    margin: 30px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(216, 128, 106);
+}
+
+a {
+    color: rgb(134, 139, 143);
+    font-weight: 200;
+    margin: 30px;
+}
+
+.btn {
+    width: 130px;
+    border: none;
+    cursor: pointer;
+    padding: 3px 15px;
+    font-weight: 400;
+    line-height: 29px;
+    color: white;
+    font-size: 25px;
+    border-radius: 30px;
+    background-color: blueviolet;
+}
+
+.btn:hover{
+    transform: translateY(-3px);
+    color: rgb(39, 39, 49);
+}
+
+.img-logo {
+    margin-left: 125px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 150px;
+}
+
+h1 {
+    margin-top: 10px;
+    line-height: 122px;
+    font-weight: 600;
+    font-size: 100px;
+    color: rgb(134, 139, 143);
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: rgb(134, 139, 143);
+    font-size: 50px;
+    line-height: 71px;
+}
+
+p {
+    margin-top: 30px;
+    width: 550px;
+    font-weight: 300px;
+    color: rgb(21, 122, 211);
+}
+
+.btn2 {
+    margin-top: 30px;
+    cursor: pointer;
+    height: 64px;
+    width: 239px;
+    background-color: rgb(8, 226, 154);
+    font-size: 30px;
+    border-radius: 50px;
+    border: none;
+   font-size: 35px;
+   font-weight: 600;
+   filter: drop-shadow(0px 4px 4px rgba(5, 5, 5, 0.50)); /*Essa propriedade serve para colocar uma sobre no funso de certo imtem aqui por exemplo e o botao*/
+}
+
+.btn2:hover{
+background-color: rgb(49, 110, 190);
+transform: translateY(-3px);
+}
