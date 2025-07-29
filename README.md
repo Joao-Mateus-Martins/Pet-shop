@@ -8,3 +8,7 @@
   <div <style display: inline-block;>
  <img width="1915" height="1000" alt="Captura de tela 2025-07-28 184422" src="https://github.com/user-attachments/assets/02722982-a83d-4d75-b94e-aa448d3fc59a" /> <img width="300" height="600" alt="Captura de tela 2025-07-28 194747" src="https://github.com/user-attachments/assets/025f433c-8165-4348-bc5f-b7874cffe906" />
 </div>
+
+  <h2>⬇️Abra o site na pagina aqui </h2> 
+  
+<a href=https://joao-mateus-martins.github.io/Site-pet-shop/>![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)</a>
